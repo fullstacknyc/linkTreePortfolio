@@ -85,12 +85,12 @@ function TypewriterText({ names }: { names: string[] }) {
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-black text-white">
+    <main className="flex min-h-[calc(100vh-4rem)] flex-col items-center justify-center bg-black text-white">
       <h1 className="text-5xl font-bold min-h-[4rem] flex items-center">
         <TypewriterText names={names} />
       </h1>
       <p className="mt-4 text-lg text-gray-400">
-        Front-End Developer | Building modern interfaces
+        English/Spanish Interpreter, Data Analyst, Full Stack Developer, Problem Solver
       </p>
     </main>
   )
