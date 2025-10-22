@@ -42,14 +42,14 @@ export default function RootLayout({
               </div>
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-8">
-                  <Link href="#resume" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
+                  <Link href="https://www.linkedin.com/in/camilogomezvalencia/" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
                     Resume
                   </Link>
-                  <Link href="#projects" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
+                  <Link href="https://github.com/fullstacknyc?tab=repositories" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
                     Projects
                   </Link>
-                  <Link href="#contact" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
-                    Contact
+                  <Link href="https://buy.stripe.com/3claEX5khdEweKn1TF9oc06" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
+                    Donate
                   </Link>
                 </div>
               </div>
