@@ -230,7 +230,7 @@ export default function Home() {
               Explore my code repositories and projects
             </p>
             <a 
-              href="https://github.com/your-username" 
+              href="https://github.com/fullstacknyc?tab=repositories" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 bg-gray-800 hover:bg-gray-700 text-white font-semibold rounded-lg transition-colors duration-200"
@@ -253,13 +253,13 @@ export default function Home() {
           </p>
           <div className="flex justify-center space-x-6">
             <a 
-              href="mailto:your-email@example.com"
+              href="mailto:jgomezval@icloud.com"
               className="text-blue-400 hover:text-blue-300 transition-colors duration-200"
             >
               Email
             </a>
             <a 
-              href="https://linkedin.com/in/your-profile"
+              href="https://linkedin.com/in/camilogomezvalencia/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:text-blue-300 transition-colors duration-200"
@@ -267,7 +267,7 @@ export default function Home() {
               LinkedIn
             </a>
             <a 
-              href="https://github.com/your-username"
+              href="https://github.com/fullstacknyc?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:text-blue-300 transition-colors duration-200"
