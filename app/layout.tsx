@@ -75,14 +75,14 @@ export default function RootLayout({
               <div className="md:hidden">
                 <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-black border-t border-gray-800">
                   <Link 
-                    href="#resume" 
+                    href="/resume" 
                     className="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200"
                     onClick={() => setIsMobileMenuOpen(false)}
                   >
                     Resume
                   </Link>
                   <Link 
-                    href="#projects" 
+                    href="/projects" 
                     className="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200"
                     onClick={() => setIsMobileMenuOpen(false)}
                   >
