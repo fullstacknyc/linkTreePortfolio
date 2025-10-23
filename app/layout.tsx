@@ -46,7 +46,7 @@ export default function RootLayout({
                   <Link href="https://github.com/fullstacknyc?tab=repositories" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
                     Projects
                   </Link>
-                  <Link href="https://buy.stripe.com/3claEX5khdEweKn1TF9oc06" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
+                  <Link href="https://buy.stripe.com/7sYbJ1aEBdEw6dRfKv9oc08" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200">
                     Donate
                   </Link>
                 </div>
