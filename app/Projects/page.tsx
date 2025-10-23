@@ -1,5 +1,7 @@
 "use state"
 
 export default function Projects() {
-    return {}
+    return <>
+    <h1>Placeholder</h1>
+    </>
 }
